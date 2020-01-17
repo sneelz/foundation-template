@@ -1,2 +1,2 @@
-# hhax
+# Foundation website template
  
